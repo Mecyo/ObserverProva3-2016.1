@@ -1,5 +1,7 @@
 package cliente;
 
+import dominio.MySubject;
+import dominio.MySubjectObserver;
 import java.util.Observer;
 
 /**
